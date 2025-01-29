@@ -1,0 +1,5 @@
+[ 2025-01-29 21:59:49,890 ] 61 root - INFO - Data converted to records
+[ 2025-01-29 22:01:05,491 ] 61 root - INFO - Data converted to records
+[ 2025-01-29 22:01:47,605 ] 62 root - INFO - Data converted to records
+[ 2025-01-29 22:02:53,246 ] 62 root - INFO - Data converted to records
+[ 2025-01-29 22:03:13,388 ] 67 root - INFO - 11055 inserted in Mongo DB
